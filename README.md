@@ -46,6 +46,7 @@ Linux
 - pip install selenium=4.32.0
 
 Запуск alg.py
+
 Windows
 - py alg.py
 
